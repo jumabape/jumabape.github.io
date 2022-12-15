@@ -1,7 +1,7 @@
 ---
 title: TryHackMe ColdBox
 date: 2022-12-15 17:42:00 PM
-categories: [Puesta en producción,Maquinas]
+categories: [Puesta en producción,MaquinasP]
 tags: [Puesta en produccion,Coldbox]     # TAG names should always be lowercase
 ---
 
