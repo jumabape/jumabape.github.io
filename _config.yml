@@ -72,7 +72,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://st2.depositphotos.com/5262531/8721/i/600/depositphotos_87218904-stock-photo-lightning-letter-j.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
