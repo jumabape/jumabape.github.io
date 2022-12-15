@@ -21,8 +21,7 @@ timezone: Europe/Madrid
 
 title: jumabape                          # the main title
 
-tagline: Sobre mi
-Estudios realizados SMR sistemas microinformaticos y redes y ASIR administracion de sistemas informaticos y redes  # it will display as the sub-title
+tagline: Sobre mi Estudios realizados SMR sistemas microinformaticos y redes y ASIR administracion de sistemas informaticos y redes  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
