@@ -52,4 +52,4 @@ ya siendo root vamos a la raiz del sistema. nos metemos en la carpeta root y un 
 
 ![Untitled](/assets/img/Bounty%20Hacker%20ec0e9f0da386470299cce31fa66d9018/Untitled%208.png)
 
-y aqui tendremos ya la flag de root
+y aqui tendremos ya la flag de root.
