@@ -9,7 +9,7 @@ tags: [hacking-etico,Tryhackme, Easy Peasy]     # TAG names should always be low
 
 ![Untitled](/assets/img/Bounty%20Hacker%20ec0e9f0da386470299cce31fa66d9018/Untitled.png)
 
-Como primer punto vamos a escanear los puertos de nuestra maquina de tryhackme y ver que vulnerabilidad puede tener
+Como primer punto debemos a escanear los puertos de nuestra maquina de tryhackme y ver que vulnerabilidad puede tener
 
 ```bash
 nmap -A -T5 10.10.254.148
