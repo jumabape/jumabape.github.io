@@ -1,7 +1,7 @@
 ---
 title: Tryhackme Easy Peasy
 date: 2022-12-15 18:24:00 PM
-categories: [hacking etico,MaquinasH]
+categories: [hacking etico,MaquinasH TryHackMe]
 tags: [hacking-etico,Tryhackme, Easy Peasy]     # TAG names should always be lowercase
 ---
 

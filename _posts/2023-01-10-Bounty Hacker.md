@@ -1,11 +1,10 @@
 ---
-title: Bounty Hacker
+title: Tryhackme Bounty Hacker
 date: 2023-01-10 13:00:00 PM
-categories: [hacking etico,MaquinasH]
-tags: [hacking-etico,Tryhackme, Easy Peasy]     # TAG names should always be lowercase
+categories: [hacking etico,MaquinasH TryHackMe]
+tags: [hacking-etico,Tryhackme, Bounty Hacker]     # TAG names should always be lowercase
 ---
 
-# Bounty Hackers.
 
 ![Untitled](/assets/img/Bounty%20Hacker%20ec0e9f0da386470299cce31fa66d9018/Untitled.png)
 

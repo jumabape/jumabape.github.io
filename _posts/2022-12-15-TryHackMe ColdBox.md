@@ -1,11 +1,10 @@
 ---
 title: TryHackMe ColdBox
 date: 2022-12-15 17:42:00 PM
-categories: [Puesta en producción,MaquinasP]
+categories: [Puesta en producción,MaquinasP TryHackMe]
 tags: [Puesta en produccion,Coldbox]     # TAG names should always be lowercase
 ---
 
-# ColddBox: Easy
 
 Comprobamos primero si tenemos conectividad con la maquina. asi que le vamos a hacer un ping
 
